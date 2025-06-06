@@ -1,3 +1,8 @@
+### [06.06.2025]
+* Monitor updates: 
+    * WMI hooks
+    * Fix format string vulnerability in debugger StringsOutput() function
+
 ### [03.06.2025]
 * Monitor update: Fix bug in retarget_relative_displacement() relative offset calculation (thanks @ClaudioWayne)
 
